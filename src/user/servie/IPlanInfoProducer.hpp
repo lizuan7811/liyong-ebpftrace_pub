@@ -1,0 +1,14 @@
+//
+// Created by root on 2026/6/22.
+//
+
+#ifndef LIYONG_EBPFTRACE_IPLANINFOPRODUCER_HPP
+#define LIYONG_EBPFTRACE_IPLANINFOPRODUCER_HPP
+
+
+class IPlanInfoProducer
+{
+};
+
+
+#endif //LIYONG_EBPFTRACE_IPLANINFOPRODUCER_HPP
